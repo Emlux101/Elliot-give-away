@@ -25,12 +25,12 @@ img {
 
 .lefthand {
     margin: 4%;
-    flex-basis: 130%;
+    flex-direction: 130%;
 }
 
 
 .box{
-    display: flex;
+    display:flex;
     flex-direction: row;
     justify-content: left;
 }
